@@ -1,4 +1,4 @@
-(defproject org.tobereplaced/http-accept-headers "0.1.0-SNAPSHOT"
+(defproject org.tobereplaced/http-accept-headers "0.1.0"
   :description "Parse HTTP Accept headers in accordance with RFC 2616."
   :url "https://github.com/ToBeReplaced/http-accept-headers"
   :license {:name "Eclipse Public License"
